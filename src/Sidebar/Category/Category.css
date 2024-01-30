@@ -5,10 +5,17 @@
     border: 2px solid #d8d8d8;
     text-align: center;
     width: 150px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sidebar-items { 
     margin-top: 20px;
+}
+
+.category-section { 
+    margin-left: 35px;
 }
 
 .sidebar-label-container { 

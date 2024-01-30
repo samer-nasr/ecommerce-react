@@ -5,3 +5,7 @@
 .all { 
     background: linear-gradient(blue,crimson);
 }
+
+.color-section { 
+    margin-left: 40px;
+}

@@ -6,6 +6,7 @@ function Price({handleChange}) {
     <div className="ml">
       <h2 className="sidebar-title price-title">Price</h2>
 
+      <div className="price-section">
         <label className='sidebar-label-container'>
           <input onChange={handleChange} type='radio' value="" name="test2"/>
           <span className='checkmark'></span>All
@@ -38,6 +39,7 @@ function Price({handleChange}) {
           title="Over $150"
           name="test2"
         />
+      </div>
     </div>
   )
 }

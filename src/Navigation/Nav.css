@@ -5,7 +5,7 @@ nav {
      align-items: center;
      padding: 20px;
      z-index: 999;
-     margin-left: 2rem;
+     margin-left: 10rem;
 }
 
 input { 
@@ -13,7 +13,7 @@ input {
     border: none;
     background: #f7f6f6;
     outline: none;
-    margin-right: 20px;
+    /* margin-right: 20px; */
     border-radius: 5px;
     position: relative;
     width: 14rem;
@@ -22,6 +22,6 @@ input {
 .nav-icons { 
     width: 1.5rem;
     height: 1.5rem;
-    margin-left: 2rem;
+    margin-left: 1rem;
     color: #535353;
 }
