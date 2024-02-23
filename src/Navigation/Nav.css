@@ -25,3 +25,14 @@ input {
     margin-left: 1rem;
     color: #535353;
 }
+
+@media all and (max-width: 500px) {
+    nav { 
+        justify-content: center;
+        margin-left: 0;
+    }
+
+    input { 
+    width: 12rem;
+    }
+}

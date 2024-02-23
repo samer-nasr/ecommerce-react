@@ -21,3 +21,27 @@
     color:#323232;
     cursor: pointer;
 }
+
+@media all and (max-width : 500px) {
+    .recommended-flex { 
+        margin: 0;
+    }
+    .recommended-title { 
+        margin: 0;
+        text-align: center;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .btns { 
+        padding: 5px 10px;
+        margin-right: 5px;
+    }
+
+    .recommended-flex { 
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+}
